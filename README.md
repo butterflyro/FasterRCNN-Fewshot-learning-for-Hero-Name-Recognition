@@ -19,9 +19,9 @@
 
 ## Pretrained Weight & Dataset to oneshot
 
-1. Download [Detection pretrained weight]
-2. Download [CheckNet weight]
-
+1. Download [Detection pretrained weight] https://drive.google.com/file/d/1xG3gCS-IQsign8baOjQWLo7lCfihDml-/view?usp=sharing
+2. Download [CheckNet weight] https://drive.google.com/file/d/1Zqq_v9KeeWGSYxETsmui6HFARUzkp_jJ/view?usp=sharing
+3. After downloading, move it to the checkpoint folder.
 ## Test
 
 For inference, run following commands. Check specific details in main.py 
