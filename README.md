@@ -25,14 +25,13 @@
 ## Test
 
 For inference, run following commands. Check specific details in main.py 
-
-'''
+```
 python main.py --test_dir 'test_images' 
     --text_output_file 'text.txt' 
     --check_point1 'checkpoints/Faster.pth' 
     --check_point2 'checkpoints/check.pt' 
     --oneshotcheck_path 'data/oneshot_data'
-'''
+```
 
 ## Training
 
