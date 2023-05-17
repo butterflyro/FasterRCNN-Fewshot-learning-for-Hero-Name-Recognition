@@ -39,7 +39,7 @@ Training process of two architectures in 2 files (Faster.ipynb and Fewshot.ipynb
 
 ```
 @Information{Task:1,
-    author    = {Nguyen Duc Toan},
+    author    = {Toan Duc Nguyen},
     title     = {Faster RCNN + Few-shot learning with Siamese Network},
     month     = {may},
     year      = {2023},
