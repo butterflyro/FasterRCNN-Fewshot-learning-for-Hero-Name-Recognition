@@ -21,7 +21,8 @@
 
 1. Download [Detection pretrained weight] https://drive.google.com/file/d/1xG3gCS-IQsign8baOjQWLo7lCfihDml-/view?usp=sharing
 2. Download [CheckNet weight] https://drive.google.com/file/d/1Zqq_v9KeeWGSYxETsmui6HFARUzkp_jJ/view?usp=sharing
-3. After downloading, move it to the checkpoint folder.
+3. Create "checkpoints" folder.
+4. After downloading, move it to the "checkpoints" folder.
 ## Test
 
 For inference, run following commands. Check specific details in main.py 
